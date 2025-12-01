@@ -14,7 +14,7 @@ Como vendedor puedes registrar tus productos.
 
 ## Ejecución
 1. Clonar el repositorio: `git clone https://github.com/TU_USUARIO/UPEVentas_PROYECTO.git`
-2. Entrar a la carpeta: `cd UPEVentas_PROYECTO`
+2. Entrar a la carpeta: `cd proyecto_aplicacion_upeventas_`
 3. Instalar dependencias: `flutter pub get`
 4. Ejecutar la app: `flutter run`
 
@@ -31,5 +31,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
