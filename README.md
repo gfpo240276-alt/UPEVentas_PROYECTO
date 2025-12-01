@@ -1,11 +1,17 @@
 # proyecto_aplicacion_upeventas_
 
-A new Flutter project.
+UPEVentas
 Este proyecto de UPEVentas ayuda a las personas de la upemor, que buscan emprender 
 y tener un mejor medio de contacto y de organización 
 asi como una buena publicidad mediante catalogo 
 permite registrarse solo para ver el catalogo y contactar 
 y también permite registrarse como un vendedor.
+Para ejecutar este proyecto puede seleccionar registrarse o puedes seleccionar iniciar sesión.
+Según el como te registres es que tendrás diferentes funcionalidades 
+En un registro normal solo puedes visualizar el catalogo de los productos 
+y en los productos puedes dar clic para contactar a la persona que venda.
+Como vendedor puedes registrar tus productos.
+
 
 ## Getting Started
 
@@ -19,3 +25,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
